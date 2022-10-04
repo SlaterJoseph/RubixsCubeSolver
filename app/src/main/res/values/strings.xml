@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Rubics Cube</string>
+    <string name="title_activity_pictures">Leanback Pictures</string>
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="title_activity_solution">Solution</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_solutions">Leanback Solutions</string>
+    <string name="next">Next step</string>
+    <string name="back_button">Go back</string>
+    <string name="restart_button">Restart</string>
+    <string name="StepCount">3/20</string>
+    <string name="redSide">Button for Camera for the red side of the rubics cube</string>
+    <string name="blueSide">Button for Camera for the blue side of the rubics cube</string>
+    <string name="whiteSide">Button for Camera for the white side of the rubics cube</string>
+    <string name="orangeSide">Button for Camera for the orange side of the rubics cube</string>
+    <string name="greenSide">Button for Camera for the green side of the rubics cube</string>
+    <string name="yellowSide">Button for Camera for the yellow side of the rubics cube</string>
+    <string name="startSolve">Start solving</string>
+    <string name="homeInfo">Click for info</string>
+</resources>
